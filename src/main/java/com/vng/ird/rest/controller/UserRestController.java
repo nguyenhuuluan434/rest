@@ -106,4 +106,5 @@ public class UserRestController {
 		userService.deleteAllUsers();
 		return new ResponseEntity<User>(HttpStatus.NO_CONTENT);
 	}
+	//http://websystique.com/spring-boot/spring-boot-rest-api-example/
 }
