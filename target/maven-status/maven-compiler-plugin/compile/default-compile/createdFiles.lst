@@ -1,0 +1,3 @@
+com/vng/ird/rest/application/Application.class
+com/vng/ird/rest/model/Greeting.class
+com/vng/ird/rest/controller/GreetingController.class
